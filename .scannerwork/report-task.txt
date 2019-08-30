@@ -1,0 +1,6 @@
+projectKey=REACT_JEST
+serverUrl=http://localhost:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9000/dashboard?id=REACT_JEST
+ceTaskId=AWzh1n337Lv3uI9Lpjn-
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWzh1n337Lv3uI9Lpjn-
